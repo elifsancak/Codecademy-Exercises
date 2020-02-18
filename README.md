@@ -1,1 +1,1 @@
-# Introduction-to-HTML-Codecademy-Exercises
+# Codecademy-Exercises
